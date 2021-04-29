@@ -1,0 +1,132 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+h1{
+    color:#60c0c0;
+    font-size: 5.265rem;
+    margin: 50px auto auto;
+    font-family: 'Sacramento', cursive;
+    /* border-style:dotted; */
+}
+h2{
+    
+    color:#66BFBF;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color: #11999E;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+    font-family: 'Merriweather', serif;
+    margin: 10px 20px;
+}
+
+a:hover{
+    color: #eaf6f6;
+}
+
+hr{
+    border-style: dotted;
+    border-width: 4px 0px 0px 0px;
+    
+    border-color:#6c8080;
+    width: 5%;
+}
+
+p{
+    line-height: 2;
+}
+
+.top-container{
+
+    background-color: #3b4747;
+    margin: 0px;
+    
+}
+
+.middle-container{
+   margin: 100px 0px;
+}
+.bottom-container{
+   background-color: #66bfbf;
+   padding:50px 0 20px;
+}
+.top-cloud{
+    width: 200px;
+    position: relative;
+    top: 50px;
+    left: 230px;
+}
+
+.bottom-cloud{
+    width: 200px;
+    position: absolute;
+    left: 120px;
+}
+.mountain{
+    width: 700px;
+    height: 500px;
+}
+
+.skill-row{
+
+    /* position: relative; */
+    /* left: 260px; */
+    line-height: 2;
+    text-align: left;
+    width: 50%;
+    margin:100px auto;;
+}
+.pic0{
+    width: 15%;
+    /* margin: 50px auto 20px; */
+}
+.pic1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.pic2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+/* .words{
+    position: relative;
+    bottom: 400px;
+    right:590px;
+} */
+/* .contact-me{
+    /* background-color:#11999E; */
+
+
+.contect-message{
+    margin: 20px auto;
+    width: 20%;
+    
+}
+.copy{
+    color: #eaf6f6;
+    font-size: 10px;
+}
+.ban{
+    margin-top: 200px;
+}
+.btn:hover{
+    color: #66BFBF;
+}
+
